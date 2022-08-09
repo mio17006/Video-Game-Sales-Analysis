@@ -9,3 +9,4 @@
 # 5) Which platform has sold the most games of all-time?
 # 6) Breaking down the percentage of total sales by region (North America, Japan, Europe, Other)
 # 7) Is there a correlation between critic scores and global sales?
+# 8) Which video game genres are the most popular in each region?
